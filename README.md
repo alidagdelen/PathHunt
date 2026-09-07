@@ -1,7 +1,7 @@
 # PathHunt /demo/
 
 A lightweight, command-line utility built in Python designed for keyword searches within files and modular File Integrity Monitoring (FIM). 
-![PathHunt Screenshot](screenshot/main.png)
+![PathHunt Screenshot](screenshots/main.png)
 ## Features
 
 - **Keyword Search Engine:** Quickly scan directories for specific keywords within targeted file extensions.
