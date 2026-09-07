@@ -1,4 +1,4 @@
-# PathHunt
+# PathHunt /demo/
 
 A lightweight, command-line utility built in Python designed for keyword searches within files and modular File Integrity Monitoring (FIM). 
 
